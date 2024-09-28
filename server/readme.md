@@ -1,4 +1,4 @@
-# Node.js Server for Angular Storefront - Crash Course
+# Node.js Server for Angular Storefront
 
 This server provides the backend functionality for the Angular frontend, allowing users to perform CRUD (Create, Read, Update, Delete) operations on products. The server utilizes Express and interacts with a JSON file to manage product data.
 
